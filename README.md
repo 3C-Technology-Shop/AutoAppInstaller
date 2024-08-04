@@ -41,3 +41,9 @@ It will then ask you again do you want to update these apps with a new prompt
 If you tell it, yes, it will then try to update all the apps that can it may fail and if that's the case, you can still update the app manually by opening it and doing the usual to update that app.
 
 After all apps are completed updating, it will then pause so that you can check back through and see what has updated and what has failed. If you hit any key, it will then close the prompt.
+
+## The "Compiler"
+
+I use this to make the script into an exe using this tool [Create-EXEFromPS1](https://github.com/nickrod518/Create-EXEFromPS1)
+
+I have also made a script for making this easier for my self and others to use [makeAAIexe.ps1](https://github.com/lachydavies25/helpful-scripts/blob/main/makeAAIexe.ps1)
