@@ -1,3 +1,6 @@
 [submodule "AppLists/Lachy"]
 	path = AppLists/Lachy
 	url = https://github.com/lachydavies25/AppList
+[submodule "AppLists/3C"]
+	path = AppLists/3C
+	url = https://github.com/3C-Technology-Shop/AppLists
